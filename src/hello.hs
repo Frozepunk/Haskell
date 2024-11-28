@@ -4,4 +4,4 @@ main= do
     print "world"
     print "This is also printing statement"
     putStrLn "hello world"
--- this is also one of the printing statement in haskell
+-- this is also one of the printing statement in haskelli
